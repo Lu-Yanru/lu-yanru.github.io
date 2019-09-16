@@ -1,2 +1,2 @@
 ## About me: LU, Yanru &#91'lu<sup>35</sup> 'j&#603n<sup>51</sup>&#635u<sup>35</sup>&#93
-I am an MA student of linguistics at Humboldt-Universität zu Berlin. My current research interest lies in synax, semantics and psycholinguistics. I also works as a student assistant for Prof. Dr. Katharina Spalek in her ERC-Project [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en).
+I am an MA student of linguistics at Humboldt-Universität zu Berlin. My current research interest lies in synax, semantics and psycholinguistics. I also work as a student assistant for Prof. Dr. Katharina Spalek in her ERC-Project [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en).
