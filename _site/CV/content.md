@@ -1,9 +1,3 @@
----
-layout: page
-title: CV
-permanlink: /cv/
----
-
 ## Education
 Oct. 2019 - present **MA Linguistics** at Humboldt-Universität zu Berlin
 
