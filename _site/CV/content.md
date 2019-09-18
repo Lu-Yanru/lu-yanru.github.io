@@ -1,3 +1,9 @@
+---
+layout: default
+title: CV
+description: t.b.a.
+---
+
 ## Education
 Oct. 2019 - present **MA Linguistics** at Humboldt-Universität zu Berlin
 
@@ -12,3 +18,6 @@ Oct. 2016 - Aug. 2017 Exchange semesters in **BA German Philology** at Georg-Aug
 Apr. 2019 - present **Student research assistant** in ERC-Project [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) at Humbodlt-Universität zu Berlin, principal investigator: Prof. Dr. Katharina Spalek
 
 Sep. 2017 - Mar. 2018 **Internship** at DAAD Branch Office Peking
+
+
+[back](./)
