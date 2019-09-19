@@ -19,5 +19,20 @@ Apr. 2019 - present **Student research assistant** in ERC-Project [FAHMRRR](http
 
 Sep. 2017 - Mar. 2018 **Internship** at DAAD Branch Office Peking
 
+## Skills
+### Languages
+Mandarin Chinese: native / English: C1 / German: C2 / Spanish: A1
+
+### Computer
+- Windows / MacOS
+- Office / iWork
+- R / Python (basic knowledge)
+- LaTeX
+- Adobe Photoshop / InDesign
+
+### Lab
+- Reaction time
+- Eye-tracking: Eyelink 1000
+
 
 [back](./)
