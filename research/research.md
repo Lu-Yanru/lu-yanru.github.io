@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Research
-description: t.b.a.
+# description: t.b.a.
 permalink: /research/
 ---

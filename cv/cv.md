@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CV
-description: t.b.a.
+# description: t.b.a.
 permalink: /cv/
 ---
 
