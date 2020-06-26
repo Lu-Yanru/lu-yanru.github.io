@@ -2,15 +2,16 @@
 layout: default
 title: CV
 description: t.b.a.
+permalink: /cv/
 ---
 
 ## Education
 Oct. 2019 - present **MA Linguistics** at Humboldt-Universität zu Berlin
 
-Aug. 2019 Participantion in DGfS Summer School "Experimental Pragmatics: Theory, Methods, Interfaces" in Berlin
+Aug. 2019 Participantion at DGfS Summer School "Experimental Pragmatics: Theory, Methods, Interfaces" in Berlin
 
 Sep. 2014 - Jul. 2018 **BA German Language and Literature** at Beijing Foreign Studies Univerisity
-  - Bacholer Thesis: 
+  - Bacholer Thesis:
 
 Oct. 2016 - Aug. 2017 Exchange semesters in **BA German Philology** at Georg-August Universität Göttingen
 
@@ -26,13 +27,14 @@ Mandarin Chinese: native / English: C1 / German: C2 / Spanish: A1
 ### Computer
 - Windows / MacOS
 - Office / iWork
-- R / Python (basic knowledge)
+- R / Python / Matlab
 - LaTeX
 - Adobe Photoshop / InDesign
 
 ### Lab
 - Reaction time
 - Eye-tracking: Eyelink 1000
+- EEG
 
 
 [back](./)
