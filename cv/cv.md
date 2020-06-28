@@ -8,7 +8,7 @@ permalink: /cv/
 ## Education
 Oct. 2019 - present **MA Linguistics** at Humboldt-Universität zu Berlin
 
-Aug. 2019 Participantion at DGfS Summer School "Experimental Pragmatics: Theory, Methods, Interfaces" in Berlin
+Aug. 2019 Participantion at [DGfS Summer School "Experimental Pragmatics: Theory, Methods, Interfaces"](https://summerschool.xprag.de/) in Berlin
 
 Sep. 2014 - Jul. 2018 **BA German Language and Literature** at Beijing Foreign Studies Univerisity
 
